@@ -8,6 +8,8 @@ public class DemoOne {
 		System.out.println("This is not private method");
 		
 		System.out.println("We are practicing GitHub");
+		
+		 System.out.println("GitHub changes");
 	}
 	
 	       
